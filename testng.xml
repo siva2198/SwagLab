@@ -7,6 +7,7 @@
     <test verbose="2" preserve-order="true" name="Login test">
         <classes>
             <class name="TestCases.LoginTest"/>
+            <class name="TestCases.InvalidLoginTest"/>
         </classes>
     </test>
 </suite>
