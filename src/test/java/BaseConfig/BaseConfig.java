@@ -25,7 +25,6 @@ import java.time.Duration;
 import java.util.Date;
 import java.util.Properties;
 
-import static org.testng.reporters.jq.BasePanel.C;
 
 public class BaseConfig {
     public static WebDriver driver;
