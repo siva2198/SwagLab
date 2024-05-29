@@ -1,0 +1,1 @@
+{"uuid":"646446bf-71e2-415d-845c-addba94b4117","name":"Test scenario 1","children":["81c5e651-1aff-448f-8ec9-148262647cfb"],"befores":[{"name":"setUpBrowser","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1716996406836,"stop":1716996410245}],"afters":[],"start":1716996406797,"stop":1716996411075}

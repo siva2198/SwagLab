@@ -12,7 +12,7 @@ import org.testng.annotations.Test;
 public class LoginTest extends BaseConfig {
     LoginPage loginPage;
     private static final Logger log= LogManager.getLogger(LoginTest.class);
-    @Test(dataProvider = "loginData")
+    @Test(dataProvider = "loginData",description = "Login test case")
     public void testLogin(String username, String password) {
         loadURL();
         loginPage=new LoginPage(driver);

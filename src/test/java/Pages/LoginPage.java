@@ -21,11 +21,16 @@ public class LoginPage {
     @FindBy(xpath = "//*[@id='login-button']")
     WebElement loginButton;
 
+    @FindBy(css = "h3[data-test='error']")
+    WebElement errorMessage;
     public void enterUserName(String userName) {
         userNameLoginTextField.sendKeys(userName);
     }
     public void enterPassword(String password) {
         passwordLoginTextField.sendKeys(password);
+    }
+    public String getErrorMessage() {
+         return errorMessage.getText();
     }
     public ProductPage clickLoginButton() {
         loginButton.click();

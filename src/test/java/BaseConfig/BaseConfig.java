@@ -25,7 +25,6 @@ import java.time.Duration;
 import java.util.Date;
 import java.util.Properties;
 
-import static org.testng.reporters.jq.BasePanel.C;
 
 public class BaseConfig {
     public static WebDriver driver;
@@ -67,7 +66,7 @@ public class BaseConfig {
     }
 
     public String getScreenShot(String testCaseName, WebDriver driver) throws IOException {
-        File source = ((TakesScreenshot) this.driver).getScreenshotAs(OutputType.FILE);
+        File source = ((TakesScreenshot) BaseConfig.driver).getScreenshotAs(OutputType.FILE);
         String timeStamp = new SimpleDateFormat("yyyy_MM_dd_HHmmss").format(new Date());
         File file = new File(System.getProperty("user.dir") +"//screenshots//" + " " + testCaseName + "_" + timeStamp + ".png");
         FileUtils.copyFile(source, file);
