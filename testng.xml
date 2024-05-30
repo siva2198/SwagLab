@@ -8,6 +8,7 @@
         <classes>
             <class name="TestCases.LoginTest"/>
             <class name="TestCases.InvalidLoginTest"/>
+            <class name="TestCases.ProductList"/>
         </classes>
     </test>
 </suite>

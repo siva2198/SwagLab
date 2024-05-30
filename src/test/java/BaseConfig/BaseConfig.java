@@ -50,9 +50,6 @@ public class BaseConfig {
         properties = new Properties();
         properties.load(config);
     }
-    public static WebDriver getDriver() {
-        return driver;
-    }
 
     public void loadURL() {
         String baseURL = properties.getProperty("baseURL");
