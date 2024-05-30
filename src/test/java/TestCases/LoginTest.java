@@ -1,5 +1,4 @@
 package TestCases;
-
 import BaseConfig.BaseConfig;
 import Pages.LoginPage;
 import Pages.ProductPage;
