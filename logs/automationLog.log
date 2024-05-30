@@ -127,3 +127,47 @@
 23:31:30.173 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
 23:31:30.649 [main] INFO  TestCases.InvalidLoginTest - User login details locked_out_user and secret_sauce
 23:31:31.459 [main] INFO  BaseConfig.BaseConfig - Closing Browser
+22:27:12.309 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
+22:27:16.501 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+22:27:17.860 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
+22:27:17.989 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
+22:27:18.135 [main] INFO  BaseConfig.BaseConfig - Closing Browser
+22:29:14.121 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
+22:29:16.479 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+22:29:17.468 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
+22:29:17.636 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
+22:29:17.774 [main] INFO  BaseConfig.BaseConfig - Closing Browser
+22:34:08.691 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
+22:34:10.824 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+22:34:12.185 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
+22:34:12.331 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
+22:34:12.502 [main] INFO  BaseConfig.BaseConfig - Closing Browser
+22:34:22.302 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
+22:34:24.467 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+22:34:26.156 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
+22:34:26.282 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
+22:34:26.421 [main] INFO  BaseConfig.BaseConfig - Closing Browser
+22:35:36.927 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
+22:35:39.006 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+22:35:41.829 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
+22:35:41.959 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
+22:35:42.396 [main] INFO  BaseConfig.BaseConfig - Closing Browser
+22:37:20.729 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
+22:37:22.882 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+22:37:23.951 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
+22:37:24.066 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
+22:37:24.415 [main] INFO  BaseConfig.BaseConfig - Closing Browser
+22:38:25.626 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
+22:38:27.782 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+22:38:28.595 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
+22:38:28.715 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
+22:38:28.837 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+22:38:29.210 [main] INFO  TestCases.InvalidLoginTest - User login details locked_out_user and secret_sauce
+22:38:29.588 [main] INFO  BaseConfig.BaseConfig - Closing Browser
+22:39:28.426 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
+22:39:30.717 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+22:39:32.228 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
+22:39:32.343 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
+22:39:32.460 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+22:39:32.897 [main] INFO  TestCases.InvalidLoginTest - User login details locked_out_user and secret_sauce
+22:39:33.298 [main] INFO  BaseConfig.BaseConfig - Closing Browser
