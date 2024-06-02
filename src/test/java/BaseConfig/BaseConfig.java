@@ -45,10 +45,14 @@ public class BaseConfig {
         } else {
             throw new Exception("Browser not supported");
         }
+        driver.manage().window().maximize();
         wait = new WebDriverWait(driver, Duration.ofSeconds(20));
+        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
+
         InputStream config = Files.newInputStream(Paths.get(System.getProperty("user.dir") + "/src/main/resources/global.properties"));
         properties = new Properties();
         properties.load(config);
+
     }
 
     public void loadURL() {

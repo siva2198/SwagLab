@@ -18,6 +18,7 @@ public class Listeners extends BaseConfig implements ITestListener {
     @Override
     public void onTestStart(ITestResult result) {
         test = extent.createTest(result.getMethod().getMethodName());
+        test.log(Status.INFO, "Test Started");
     }
 
     @Override

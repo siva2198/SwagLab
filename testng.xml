@@ -9,6 +9,7 @@
             <class name="TestCases.LoginTest"/>
             <class name="TestCases.InvalidLoginTest"/>
             <class name="TestCases.ProductList"/>
+            <class name="TestCases.AddToCart"/>
         </classes>
     </test>
 </suite>
