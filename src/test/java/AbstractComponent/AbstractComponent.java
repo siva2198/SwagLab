@@ -13,9 +13,8 @@ public class AbstractComponent extends BaseConfig {
     public AbstractComponent(WebDriver driver){
         BaseConfig.driver = driver;
         PageFactory.initElements(driver, this);
-    }public void waitUntilElementIsVisible(WebElement locator){
+    }
+    public void waitUntilElementIsVisible(WebElement locator) {
          wait.until(ExpectedConditions.visibilityOf(locator));
     }
-
-
 }

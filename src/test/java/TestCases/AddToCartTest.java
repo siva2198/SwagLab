@@ -9,9 +9,9 @@ import org.apache.logging.log4j.Logger;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class AddToCart extends BaseConfig {
+public class AddToCartTest extends BaseConfig {
     ProductPage productPage;
-    private static final Logger log = LogManager.getLogger(AddToCart.class);
+    private static final Logger log = LogManager.getLogger(AddToCartTest.class);
 
     @Test(dependsOnMethods = {"TestCases.LoginTest.testLogin"})
     public void addToCart() throws InterruptedException {

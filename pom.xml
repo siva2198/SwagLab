@@ -64,7 +64,6 @@
             <artifactId>allure-testng</artifactId>
             <version>2.27.0</version>
         </dependency>
-
     </dependencies>
     <build>
         <plugins>
@@ -74,7 +73,8 @@
                 <version>2.22.2</version>
                 <configuration>
                     <suiteXmlFiles>
-                        testng.xml
+                        <suiteXmlFile>
+                        testng.xml</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>

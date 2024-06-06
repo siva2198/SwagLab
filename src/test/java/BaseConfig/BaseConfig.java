@@ -52,9 +52,7 @@ public class BaseConfig {
         InputStream config = Files.newInputStream(Paths.get(System.getProperty("user.dir") + "/src/main/resources/global.properties"));
         properties = new Properties();
         properties.load(config);
-
     }
-
     public void loadURL() {
         String baseURL = properties.getProperty("baseURL");
         if (baseURL == null) {
