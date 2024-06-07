@@ -381,3 +381,88 @@
 22:03:05.656 [main] INFO  TestCases.InvalidLoginTest - User login details locked_out_user and secret_sauce
 22:04:06.870 [main] INFO  TestCases.AddToCartTest - product Sauce Labs Backpack got selected 
 22:04:28.652 [main] INFO  BaseConfig.BaseConfig - Closing Browser
+18:49:30.095 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
+18:49:34.667 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+18:49:38.495 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
+18:49:38.656 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
+18:49:38.892 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+18:49:39.733 [main] INFO  TestCases.InvalidLoginTest - User login details locked_out_user and secret_sauce
+18:50:41.200 [main] INFO  TestCases.AddToCartTest - product Sauce Labs Backpack got selected 
+18:51:03.480 [main] INFO  BaseConfig.BaseConfig - Closing Browser
+18:51:51.669 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
+18:51:54.030 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+18:51:56.931 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
+18:51:57.062 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
+18:51:57.274 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+18:51:57.708 [main] INFO  TestCases.InvalidLoginTest - User login details locked_out_user and secret_sauce
+18:52:58.960 [main] INFO  TestCases.AddToCartTest - product Sauce Labs Backpack got selected 
+18:53:21.221 [main] INFO  BaseConfig.BaseConfig - Closing Browser
+20:50:38.220 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
+20:50:41.490 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+20:50:45.897 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
+20:50:46.020 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
+20:50:46.250 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+20:50:46.646 [main] INFO  TestCases.InvalidLoginTest - User login details locked_out_user and secret_sauce
+20:51:47.920 [main] INFO  TestCases.AddToCartTest - product Sauce Labs Backpack got selected 
+20:52:09.906 [main] INFO  BaseConfig.BaseConfig - Closing Browser
+20:52:10.333 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
+20:52:11.324 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+20:52:14.070 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
+20:52:14.218 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
+20:52:14.497 [main] INFO  BaseConfig.BaseConfig - Closing Browser
+20:59:49.055 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
+20:59:51.251 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+20:59:53.976 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
+20:59:54.092 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
+20:59:54.227 [main] INFO  BaseConfig.BaseConfig - Closing Browser
+21:07:56.702 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
+21:07:58.747 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+21:08:02.435 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
+21:08:02.547 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
+21:08:03.238 [main] INFO  BaseConfig.BaseConfig - Closing Browser
+21:26:08.839 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
+21:26:11.497 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+21:26:14.426 [main] INFO  TestCases.InvalidLoginTest - User login details locked_out_user and secret_sauce
+21:26:14.543 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+21:26:14.989 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
+21:26:15.125 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
+21:26:16.375 [main] INFO  TestCases.AddToCartTest - product Sauce Labs Backpack got selected 
+21:26:17.457 [main] INFO  TestCases.AddToCartTest - add to cart button clicked
+21:26:17.552 [main] INFO  TestCases.AddToCartTest - cart button clicked
+21:26:17.593 [main] INFO  TestCases.AddToCartTest - Validate with product name
+21:26:38.604 [main] INFO  BaseConfig.BaseConfig - Closing Browser
+21:31:36.151 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
+21:31:38.319 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+21:31:42.100 [main] INFO  TestCases.InvalidLoginTest - User login details locked_out_user and secret_sauce
+21:31:42.194 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+21:31:42.501 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
+21:31:42.608 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
+21:31:43.842 [main] INFO  TestCases.AddToCartTest - product Sauce Labs Backpack got selected 
+21:31:44.969 [main] INFO  TestCases.AddToCartTest - add to cart button clicked
+21:31:45.085 [main] INFO  TestCases.AddToCartTest - cart button clicked
+21:31:45.131 [main] INFO  TestCases.AddToCartTest - Validate with product name
+21:32:20.447 [main] INFO  BaseConfig.BaseConfig - Closing Browser
+21:33:17.064 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
+21:33:19.330 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+21:33:22.232 [main] INFO  TestCases.InvalidLoginTest - User login details locked_out_user and secret_sauce
+21:33:22.362 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+21:33:22.659 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
+21:33:22.764 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
+21:33:23.985 [main] INFO  TestCases.AddToCartTest - product Sauce Labs Backpack got selected 
+21:33:25.089 [main] INFO  TestCases.AddToCartTest - add to cart button clicked
+21:33:25.198 [main] INFO  TestCases.AddToCartTest - cart button clicked
+21:33:25.237 [main] INFO  TestCases.AddToCartTest - Validate with product name
+21:33:31.943 [main] INFO  BaseConfig.BaseConfig - Closing Browser
+21:35:09.760 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
+21:35:11.995 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+21:35:14.917 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
+21:35:15.048 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
+21:35:15.659 [main] INFO  BaseConfig.BaseConfig - Closing Browser
+21:35:33.204 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
+21:35:35.376 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+21:35:38.193 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
+21:35:38.320 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
+21:35:38.450 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+21:35:38.838 [main] INFO  TestCases.InvalidLoginTest - User login details locked_out_user and secret_sauce
+21:36:40.060 [main] INFO  TestCases.AddToCartTest - product Sauce Labs Backpack got selected 
+21:37:02.083 [main] INFO  BaseConfig.BaseConfig - Closing Browser
