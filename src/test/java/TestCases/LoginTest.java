@@ -2,6 +2,9 @@ package TestCases;
 import BaseConfig.BaseConfig;
 import Pages.LoginPage;
 import Pages.ProductPage;
+import io.qameta.allure.Description;
+import io.qameta.allure.Severity;
+import io.qameta.allure.SeverityLevel;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.testng.Assert;
@@ -11,6 +14,8 @@ import org.testng.annotations.Test;
 public class LoginTest extends BaseConfig {
     LoginPage loginPage;
     private static final Logger log= LogManager.getLogger(LoginTest.class);
+    @Description("Login testing functionality")
+    @Severity(SeverityLevel.BLOCKER)
     @Test(dataProvider = "loginData",description = "Login test case")
     public void testLogin(String username, String password) {
         loadURL();

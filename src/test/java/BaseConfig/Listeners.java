@@ -57,6 +57,4 @@ public class Listeners extends BaseConfig implements ITestListener {
     public void onFinish(ITestContext context) {
         extent.flush();
     }
-
-
 }

@@ -1,5 +1,6 @@
 package Pages;
 
+import io.qameta.allure.Step;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -23,15 +24,21 @@ public class LoginPage {
 
     @FindBy(css = "h3[data-test='error']")
     WebElement errorMessage;
+
+    @Step("Entering the username")
     public void enterUserName(String userName) {
         userNameLoginTextField.sendKeys(userName);
     }
+    @Step("Entering the password")
     public void enterPassword(String password) {
         passwordLoginTextField.sendKeys(password);
     }
+
     public String getErrorMessage() {
          return errorMessage.getText();
     }
+
+    @Step("click on login button")
     public ProductPage clickLoginButton() {
         loginButton.click();
         return new ProductPage(driver);

@@ -1,6 +1,7 @@
 package BaseConfig;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
+import io.qameta.allure.Step;
 import org.apache.commons.io.FileUtils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -34,6 +35,7 @@ public class BaseConfig {
     WebDriverWait wait;
 
     @BeforeSuite(alwaysRun = true)
+    @Step("Starting Browser")
     public void setUpBrowser() throws Exception {
         if (BROWSER.equals("Chrome")) {
             log.info("Chrome driver got initialized");
@@ -73,6 +75,7 @@ public class BaseConfig {
     }
 
     @AfterSuite(alwaysRun = true)
+    @Step("Closing the browser")
     public void tearDownBrowser() {
         log.info("Closing Browser");
         driver.quit();
