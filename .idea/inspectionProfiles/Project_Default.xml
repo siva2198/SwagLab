@@ -10,16 +10,19 @@
         <list>
           <option value="SwagLab" />
           <option value="SwagLab" />
+          <option value="SwagLab" />
         </list>
       </option>
       <option name="ignoredPackages">
         <list>
           <option value="log4j:log4j:1.2.17" />
           <option value="com.fasterxml.jackson.core:jackson-databind:2.10.3" />
+          <option value="io.netty:netty-codec-http:4.1.96.Final" />
         </list>
       </option>
       <option name="ignoredReasons">
         <list>
+          <option value="Not exploitable" />
           <option value="Not exploitable" />
           <option value="Not exploitable" />
         </list>

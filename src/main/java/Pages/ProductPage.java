@@ -1,6 +1,6 @@
 package Pages;
 
-import AbstractComponent.AbstractComponent;
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -10,11 +10,10 @@ import org.openqa.selenium.support.PageFactory;
 import java.util.List;
 
 // page_url = about:blank
-public class ProductPage extends AbstractComponent {
+public class ProductPage {
     WebDriver driver;
 
     public ProductPage(WebDriver driver) {
-        super(driver);
         this.driver = driver;
         PageFactory.initElements(driver, this);
     }
@@ -37,6 +36,10 @@ public class ProductPage extends AbstractComponent {
     public String getLogoText() {
         return logo.getText();
     }
+    public boolean validateDashboard(){
+        return logo.isDisplayed();
+    }
+
     public void clickAddToCartButton() {
         addToCartButtonParticularProduct.click();
     }

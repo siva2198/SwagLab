@@ -1,686 +1,727 @@
-21:12:27.486 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-21:13:07.483 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-21:14:07.653 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-21:15:13.187 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-21:15:15.769 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+21:12:27.486 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+21:13:07.483 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+21:14:07.653 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+21:15:13.187 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+21:15:15.769 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 21:15:16.477 [main] INFO  TestCases.LoginTest - Entered Login details :standard_ user and secret_sauce
 21:15:16.532 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/
-21:15:16.574 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-21:37:31.446 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-21:37:34.444 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+21:15:16.574 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+21:37:31.446 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+21:37:34.444 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 21:37:35.342 [main] INFO  TestCases.LoginTest - Entered Login details :standard_ user and secret_sauce
 21:37:35.402 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/
-21:41:39.192 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-21:41:42.065 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+21:41:39.192 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+21:41:42.065 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 21:41:42.778 [main] INFO  TestCases.LoginTest - Entered Login details :standard_ user and secret_sauce
 21:41:42.834 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/
-21:42:15.041 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-21:42:17.673 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+21:42:15.041 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+21:42:17.673 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 21:42:22.901 [main] INFO  TestCases.LoginTest - Entered Login details :standard_ user and secret_sauce
 21:42:22.956 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/
-21:49:30.749 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-21:49:33.421 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+21:49:30.749 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+21:49:33.421 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 21:49:34.059 [main] INFO  TestCases.LoginTest - Entered Login details :standard_ user and secret_sauce
 21:49:34.113 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/
-21:53:45.774 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-21:53:48.512 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+21:53:45.774 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+21:53:48.512 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 21:53:49.192 [main] INFO  TestCases.LoginTest - Entered Login details :standard_ user and secret_sauce
 21:53:49.246 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/
-21:56:47.073 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-21:56:49.778 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+21:56:47.073 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+21:56:49.778 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 21:57:01.011 [main] INFO  TestCases.LoginTest - Entered Login details :standard_ user and secret_sauce
 21:57:01.072 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/
-22:03:01.430 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-22:03:04.230 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+22:03:01.430 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+22:03:04.230 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 22:03:05.083 [main] INFO  TestCases.LoginTest - Entered Login details :standard_ user and secret_sauce
 22:03:05.140 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/
-22:11:13.324 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-22:11:16.427 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+22:11:13.324 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+22:11:16.427 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 22:11:17.243 [main] INFO  TestCases.LoginTest - Entered Login details :standard_ user and secret_sauce
 22:11:17.306 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/
-22:11:17.934 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-22:16:11.285 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-22:16:13.905 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+22:11:17.934 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+22:16:11.285 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+22:16:13.905 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 22:16:14.550 [main] INFO  TestCases.LoginTest - Entered Login details :standard_ user and secret_sauce
 22:16:14.607 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/
-22:16:15.246 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-22:19:50.650 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-22:19:53.360 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+22:16:15.246 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+22:19:50.650 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+22:19:53.360 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 22:19:54.054 [main] INFO  TestCases.LoginTest - Entered Login details :standard_ user and secret_sauce
 22:19:54.119 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/
-22:19:54.682 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-22:24:43.953 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-22:24:46.947 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+22:19:54.682 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+22:24:43.953 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+22:24:46.947 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 22:24:48.054 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 22:24:48.150 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
-22:24:48.625 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-20:52:26.743 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-20:52:31.813 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+22:24:48.625 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+20:52:26.743 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+20:52:31.813 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 20:52:36.142 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 20:52:36.262 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
-20:52:37.630 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-20:55:32.953 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-20:55:36.546 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+20:52:37.630 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+20:55:32.953 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+20:55:36.546 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 20:55:39.843 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 20:55:40.014 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
-20:55:40.604 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-20:56:46.850 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-20:57:28.192 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-21:38:26.374 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-21:38:30.928 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-21:40:56.896 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-21:41:00.282 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+20:55:40.604 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+20:56:46.850 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+20:57:28.192 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+21:38:26.374 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+21:38:30.928 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+21:40:56.896 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+21:41:00.282 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 21:41:05.434 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 21:41:05.557 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
-21:41:06.742 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-22:33:19.960 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-22:33:24.171 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+21:41:06.742 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+22:33:19.960 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+22:33:24.171 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 22:33:28.735 [main] INFO  TestCases.InvalidLoginTest - User login details locked_out_user and secret_sauce
-22:33:29.081 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-22:34:34.919 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-22:34:37.991 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+22:33:29.081 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+22:34:34.919 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+22:34:37.991 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 22:35:00.686 [main] INFO  TestCases.InvalidLoginTest - User login details locked_out_user and secret_sauce
-22:35:01.023 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-22:36:33.950 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-22:36:37.224 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+22:35:01.023 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+22:36:33.950 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+22:36:37.224 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 22:36:40.836 [main] INFO  TestCases.InvalidLoginTest - User login details locked_out_user and secret_sauce
-22:36:40.974 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-22:38:11.589 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-22:38:14.788 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+22:36:40.974 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+22:38:11.589 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+22:38:14.788 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 22:38:18.479 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 22:38:18.611 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
-22:38:18.774 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+22:38:18.774 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 22:38:19.208 [main] INFO  TestCases.InvalidLoginTest - User login details locked_out_user  and secret_sauce
-22:38:20.486 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-22:55:07.675 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-22:55:11.236 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+22:38:20.486 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+22:55:07.675 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+22:55:11.236 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 22:55:15.928 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 22:55:16.044 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
-22:55:16.394 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+22:55:16.394 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 22:55:16.843 [main] INFO  TestCases.InvalidLoginTest - User login details locked_out_user and secret_sauce
-22:55:17.823 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-23:12:26.146 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-23:12:30.036 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+22:55:17.823 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+23:12:26.146 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+23:12:30.036 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 23:12:34.393 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 23:12:34.529 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
-23:12:34.802 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+23:12:34.802 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 23:12:35.220 [main] INFO  TestCases.InvalidLoginTest - User login details locked_out_user and secret_sauce
-23:12:36.310 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-23:17:33.943 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-23:17:38.295 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+23:12:36.310 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+23:17:33.943 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+23:17:38.295 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 23:17:42.983 [main] INFO  TestCases.InvalidLoginTest - User login details locked_out_user and secret_sauce
-23:17:43.268 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+23:17:43.268 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 23:17:43.673 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 23:17:43.824 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
-23:17:43.971 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-23:25:30.479 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-23:25:33.066 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+23:17:43.971 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+23:25:30.479 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+23:25:33.066 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 23:25:38.131 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 23:25:38.312 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
-23:25:38.381 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+23:25:38.381 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 23:25:38.786 [main] INFO  TestCases.InvalidLoginTest - User login details locked_out_user and secret_sauce
-23:25:39.544 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-23:31:23.002 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-23:31:25.603 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+23:25:39.544 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+23:31:23.002 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+23:31:25.603 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 23:31:29.838 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 23:31:29.985 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
-23:31:30.173 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+23:31:30.173 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 23:31:30.649 [main] INFO  TestCases.InvalidLoginTest - User login details locked_out_user and secret_sauce
-23:31:31.459 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-22:27:12.309 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-22:27:16.501 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+23:31:31.459 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+22:27:12.309 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+22:27:16.501 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 22:27:17.860 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 22:27:17.989 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
-22:27:18.135 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-22:29:14.121 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-22:29:16.479 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+22:27:18.135 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+22:29:14.121 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+22:29:16.479 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 22:29:17.468 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 22:29:17.636 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
-22:29:17.774 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-22:34:08.691 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-22:34:10.824 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+22:29:17.774 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+22:34:08.691 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+22:34:10.824 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 22:34:12.185 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 22:34:12.331 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
-22:34:12.502 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-22:34:22.302 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-22:34:24.467 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+22:34:12.502 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+22:34:22.302 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+22:34:24.467 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 22:34:26.156 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 22:34:26.282 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
-22:34:26.421 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-22:35:36.927 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-22:35:39.006 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+22:34:26.421 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+22:35:36.927 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+22:35:39.006 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 22:35:41.829 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 22:35:41.959 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
-22:35:42.396 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-22:37:20.729 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-22:37:22.882 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+22:35:42.396 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+22:37:20.729 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+22:37:22.882 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 22:37:23.951 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 22:37:24.066 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
-22:37:24.415 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-22:38:25.626 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-22:38:27.782 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+22:37:24.415 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+22:38:25.626 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+22:38:27.782 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 22:38:28.595 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 22:38:28.715 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
-22:38:28.837 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+22:38:28.837 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 22:38:29.210 [main] INFO  TestCases.InvalidLoginTest - User login details locked_out_user and secret_sauce
-22:38:29.588 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-22:39:28.426 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-22:39:30.717 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+22:38:29.588 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+22:39:28.426 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+22:39:30.717 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 22:39:32.228 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 22:39:32.343 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
-22:39:32.460 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+22:39:32.460 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 22:39:32.897 [main] INFO  TestCases.InvalidLoginTest - User login details locked_out_user and secret_sauce
-22:39:33.298 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-13:34:11.991 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-13:34:16.090 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+22:39:33.298 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+13:34:11.991 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+13:34:16.090 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 13:34:16.826 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 13:34:16.915 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
-13:34:17.189 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-13:38:09.071 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-13:38:10.689 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+13:34:17.189 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+13:38:09.071 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+13:38:10.689 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 13:38:11.462 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 13:38:11.554 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
-13:38:11.745 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-13:38:47.796 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-13:38:49.375 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+13:38:11.745 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+13:38:47.796 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+13:38:49.375 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 13:38:50.077 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 13:38:50.188 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
-13:38:50.412 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-13:46:40.646 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-13:46:42.514 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+13:38:50.412 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+13:46:40.646 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+13:46:42.514 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 13:46:43.233 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 13:46:43.328 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
-13:46:43.470 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-14:14:35.770 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-14:14:39.731 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+13:46:43.470 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+14:14:35.770 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+14:14:39.731 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 14:14:40.508 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 14:14:40.654 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
-14:14:40.864 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-14:15:10.117 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-14:15:12.862 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+14:14:40.864 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+14:15:10.117 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+14:15:12.862 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 14:15:13.895 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 14:15:14.127 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
-14:15:27.836 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-14:15:43.031 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-14:15:46.051 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+14:15:27.836 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+14:15:43.031 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+14:15:46.051 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 14:15:47.056 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 14:15:47.199 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
-14:33:48.027 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-14:33:50.593 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+14:33:48.027 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+14:33:50.593 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 14:33:51.271 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 14:33:51.424 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
-14:34:18.290 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-14:36:18.602 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-14:36:20.707 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+14:34:18.290 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+14:36:18.602 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+14:36:20.707 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 14:36:21.936 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
-14:36:22.135 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-14:52:27.194 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-14:52:29.239 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+14:36:22.135 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+14:52:27.194 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+14:52:29.239 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 14:52:29.951 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 14:52:30.062 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
-14:52:30.196 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-14:53:58.237 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-14:54:00.581 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+14:52:30.196 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+14:53:58.237 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+14:54:00.581 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 14:54:01.352 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 14:54:01.469 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
-14:55:00.650 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-14:55:06.458 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-14:55:08.670 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+14:55:00.650 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+14:55:06.458 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+14:55:08.670 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 14:55:09.453 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 14:55:09.653 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
-14:55:29.262 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-14:57:20.263 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-14:57:22.328 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+14:55:29.262 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+14:57:20.263 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+14:57:22.328 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 14:57:23.199 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 14:57:23.312 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
-14:57:23.482 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-15:00:26.680 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-15:00:28.775 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+14:57:23.482 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+15:00:26.680 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+15:00:28.775 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 15:00:35.554 [main] INFO  TestCases.AddToCart - product Sauce Labs Backpack got selected 
-15:00:35.623 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-15:00:49.379 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-15:00:51.745 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+15:00:35.623 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+15:00:49.379 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+15:00:51.745 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 15:00:53.357 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 15:00:53.477 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
-15:00:55.757 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-15:02:24.185 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-15:02:26.333 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+15:00:55.757 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+15:02:24.185 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+15:02:26.333 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 15:02:27.025 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 15:02:27.143 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
-15:02:47.281 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-15:02:49.492 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+15:02:47.281 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+15:02:49.492 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 15:02:50.288 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 15:02:50.429 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
-15:08:24.886 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-15:08:27.002 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+15:08:24.886 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+15:08:27.002 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 15:08:27.852 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 15:08:27.963 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
-15:08:30.280 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-15:10:47.907 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-15:10:50.269 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+15:08:30.280 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+15:10:47.907 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+15:10:50.269 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 15:10:51.160 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 15:10:51.288 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
 15:10:56.011 [main] INFO  TestCases.AddToCart - product Sauce Labs Backpack got selected 
-15:11:16.813 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-15:11:21.070 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-15:11:23.330 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+15:11:16.813 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+15:11:21.070 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+15:11:23.330 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 15:11:24.061 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 15:11:24.197 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
 15:11:24.418 [main] INFO  TestCases.AddToCart - product Sauce Labs Backpack got selected 
-15:11:45.113 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-15:11:53.767 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-15:11:55.767 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+15:11:45.113 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+15:11:53.767 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+15:11:55.767 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 15:11:56.525 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 15:11:56.657 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
 15:11:56.882 [main] INFO  TestCases.AddToCart - product Sauce Labs Backpack got selected 
-15:12:17.635 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-15:15:29.508 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-15:15:32.130 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+15:12:17.635 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+15:15:29.508 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+15:15:32.130 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 15:15:32.982 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 15:15:33.106 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
 15:15:33.341 [main] INFO  TestCases.AddToCart - product Sauce Labs Backpack got selected 
 15:15:33.405 [main] INFO  TestCases.AddToCart - add to cart button clicked
 15:15:33.487 [main] INFO  TestCases.AddToCart - cart button clicked
 15:15:33.515 [main] INFO  TestCases.AddToCart - Validate with product name
-15:15:58.214 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-15:24:41.424 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-15:24:43.644 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+15:15:58.214 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+15:24:41.424 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+15:24:43.644 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 15:24:44.539 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 15:24:44.669 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
 15:24:44.892 [main] INFO  TestCases.AddToCart - product Sauce Labs Backpack got selected 
 15:24:44.967 [main] INFO  TestCases.AddToCart - add to cart button clicked
 15:24:45.049 [main] INFO  TestCases.AddToCart - cart button clicked
 15:24:45.082 [main] INFO  TestCases.AddToCart - Validate with product name
-15:24:45.864 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-15:25:46.642 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-15:25:48.850 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+15:24:45.864 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+15:25:46.642 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+15:25:48.850 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 15:25:49.727 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 15:25:49.870 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
-15:25:49.992 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+15:25:49.992 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 15:25:50.414 [main] INFO  TestCases.InvalidLoginTest - User login details locked_out_user and secret_sauce
 15:26:50.585 [main] INFO  TestCases.AddToCart - product Sauce Labs Backpack got selected 
-15:27:11.249 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-15:29:50.927 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-15:29:53.304 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+15:27:11.249 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+15:29:50.927 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+15:29:53.304 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 15:29:54.090 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 15:29:54.215 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
-15:29:54.356 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+15:29:54.356 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 15:29:54.817 [main] INFO  TestCases.InvalidLoginTest - User login details locked_out_user and secret_sauce
 15:30:55.005 [main] INFO  TestCases.AddToCart - product Sauce Labs Backpack got selected 
-15:30:55.634 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-15:34:43.055 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-15:34:45.351 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+15:30:55.634 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+15:34:43.055 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+15:34:45.351 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 15:34:46.272 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 15:34:46.421 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
 15:34:46.761 [main] INFO  TestCases.AddToCart - product Sauce Labs Backpack got selected 
 15:34:46.834 [main] INFO  TestCases.AddToCart - add to cart button clicked
 15:34:46.907 [main] INFO  TestCases.AddToCart - cart button clicked
-15:34:57.274 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-15:35:09.719 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-15:35:12.382 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+15:34:57.274 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+15:35:09.719 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+15:35:12.382 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 15:35:13.260 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 15:35:13.393 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
 15:35:13.672 [main] INFO  TestCases.AddToCart - product Sauce Labs Backpack got selected 
 15:35:13.738 [main] INFO  TestCases.AddToCart - add to cart button clicked
 15:35:13.804 [main] INFO  TestCases.AddToCart - cart button clicked
-15:35:19.740 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-15:35:56.962 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-15:35:59.291 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+15:35:19.740 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+15:35:56.962 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+15:35:59.291 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 15:36:00.101 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 15:36:00.224 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
 15:36:00.519 [main] INFO  TestCases.AddToCart - product Sauce Labs Backpack got selected 
 15:36:01.626 [main] INFO  TestCases.AddToCart - add to cart button clicked
 15:36:01.730 [main] INFO  TestCases.AddToCart - cart button clicked
-15:36:16.628 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-15:36:37.910 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-15:36:40.719 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+15:36:16.628 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+15:36:37.910 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+15:36:40.719 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 15:36:41.566 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 15:36:41.696 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
 15:36:42.990 [main] INFO  TestCases.AddToCart - product Sauce Labs Backpack got selected 
 15:36:44.101 [main] INFO  TestCases.AddToCart - add to cart button clicked
 15:36:44.211 [main] INFO  TestCases.AddToCart - cart button clicked
-15:36:53.642 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-15:39:28.924 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-15:39:31.233 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+15:36:53.642 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+15:39:28.924 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+15:39:31.233 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 15:39:32.142 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 15:39:32.284 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
 15:39:33.561 [main] INFO  TestCases.AddToCart - product Sauce Labs Backpack got selected 
 15:39:34.675 [main] INFO  TestCases.AddToCart - add to cart button clicked
 15:39:34.777 [main] INFO  TestCases.AddToCart - cart button clicked
 15:39:34.813 [main] INFO  TestCases.AddToCart - Validate with product name
-15:39:35.613 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-15:53:12.039 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-15:53:16.590 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+15:39:35.613 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+15:53:12.039 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+15:53:16.590 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 15:53:17.527 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 15:53:17.676 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
-15:53:17.808 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+15:53:17.808 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 15:53:18.274 [main] INFO  TestCases.InvalidLoginTest - User login details locked_out_user and secret_sauce
 15:54:19.490 [main] INFO  TestCases.AddToCart - product Sauce Labs Backpack got selected 
-15:54:41.505 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-21:58:48.424 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-21:58:50.934 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+15:54:41.505 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+21:58:48.424 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+21:58:50.934 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 21:58:52.100 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 21:58:52.245 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
-21:58:52.355 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+21:58:52.355 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 21:58:52.782 [main] INFO  TestCases.InvalidLoginTest - User login details locked_out_user and secret_sauce
 21:59:54.045 [main] INFO  TestCases.AddToCart - product Sauce Labs Backpack got selected 
-22:00:16.245 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-22:00:42.915 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-22:00:45.325 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+22:00:16.245 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+22:00:42.915 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+22:00:45.325 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 22:00:46.475 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 22:00:46.620 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
-22:00:46.803 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+22:00:46.803 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 22:00:47.236 [main] INFO  TestCases.InvalidLoginTest - User login details locked_out_user and secret_sauce
 22:01:48.413 [main] INFO  TestCases.AddToCartTest - product Sauce Labs Backpack got selected 
-22:02:10.604 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-22:03:01.003 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-22:03:03.412 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+22:02:10.604 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+22:03:01.003 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+22:03:03.412 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 22:03:04.975 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 22:03:05.107 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
-22:03:05.253 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+22:03:05.253 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 22:03:05.656 [main] INFO  TestCases.InvalidLoginTest - User login details locked_out_user and secret_sauce
 22:04:06.870 [main] INFO  TestCases.AddToCartTest - product Sauce Labs Backpack got selected 
-22:04:28.652 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-18:49:30.095 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-18:49:34.667 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+22:04:28.652 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+18:49:30.095 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+18:49:34.667 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 18:49:38.495 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 18:49:38.656 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
-18:49:38.892 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+18:49:38.892 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 18:49:39.733 [main] INFO  TestCases.InvalidLoginTest - User login details locked_out_user and secret_sauce
 18:50:41.200 [main] INFO  TestCases.AddToCartTest - product Sauce Labs Backpack got selected 
-18:51:03.480 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-18:51:51.669 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-18:51:54.030 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+18:51:03.480 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+18:51:51.669 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+18:51:54.030 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 18:51:56.931 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 18:51:57.062 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
-18:51:57.274 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+18:51:57.274 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 18:51:57.708 [main] INFO  TestCases.InvalidLoginTest - User login details locked_out_user and secret_sauce
 18:52:58.960 [main] INFO  TestCases.AddToCartTest - product Sauce Labs Backpack got selected 
-18:53:21.221 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-20:50:38.220 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-20:50:41.490 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+18:53:21.221 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+20:50:38.220 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+20:50:41.490 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 20:50:45.897 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 20:50:46.020 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
-20:50:46.250 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+20:50:46.250 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 20:50:46.646 [main] INFO  TestCases.InvalidLoginTest - User login details locked_out_user and secret_sauce
 20:51:47.920 [main] INFO  TestCases.AddToCartTest - product Sauce Labs Backpack got selected 
-20:52:09.906 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-20:52:10.333 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-20:52:11.324 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+20:52:09.906 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+20:52:10.333 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+20:52:11.324 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 20:52:14.070 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 20:52:14.218 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
-20:52:14.497 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-20:59:49.055 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-20:59:51.251 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+20:52:14.497 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+20:59:49.055 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+20:59:51.251 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 20:59:53.976 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 20:59:54.092 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
-20:59:54.227 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-21:07:56.702 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-21:07:58.747 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+20:59:54.227 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+21:07:56.702 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+21:07:58.747 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 21:08:02.435 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 21:08:02.547 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
-21:08:03.238 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-21:26:08.839 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-21:26:11.497 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+21:08:03.238 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+21:26:08.839 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+21:26:11.497 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 21:26:14.426 [main] INFO  TestCases.InvalidLoginTest - User login details locked_out_user and secret_sauce
-21:26:14.543 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+21:26:14.543 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 21:26:14.989 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 21:26:15.125 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
 21:26:16.375 [main] INFO  TestCases.AddToCartTest - product Sauce Labs Backpack got selected 
 21:26:17.457 [main] INFO  TestCases.AddToCartTest - add to cart button clicked
 21:26:17.552 [main] INFO  TestCases.AddToCartTest - cart button clicked
 21:26:17.593 [main] INFO  TestCases.AddToCartTest - Validate with product name
-21:26:38.604 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-21:31:36.151 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-21:31:38.319 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+21:26:38.604 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+21:31:36.151 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+21:31:38.319 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 21:31:42.100 [main] INFO  TestCases.InvalidLoginTest - User login details locked_out_user and secret_sauce
-21:31:42.194 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+21:31:42.194 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 21:31:42.501 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 21:31:42.608 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
 21:31:43.842 [main] INFO  TestCases.AddToCartTest - product Sauce Labs Backpack got selected 
 21:31:44.969 [main] INFO  TestCases.AddToCartTest - add to cart button clicked
 21:31:45.085 [main] INFO  TestCases.AddToCartTest - cart button clicked
 21:31:45.131 [main] INFO  TestCases.AddToCartTest - Validate with product name
-21:32:20.447 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-21:33:17.064 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-21:33:19.330 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+21:32:20.447 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+21:33:17.064 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+21:33:19.330 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 21:33:22.232 [main] INFO  TestCases.InvalidLoginTest - User login details locked_out_user and secret_sauce
-21:33:22.362 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+21:33:22.362 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 21:33:22.659 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 21:33:22.764 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
 21:33:23.985 [main] INFO  TestCases.AddToCartTest - product Sauce Labs Backpack got selected 
 21:33:25.089 [main] INFO  TestCases.AddToCartTest - add to cart button clicked
 21:33:25.198 [main] INFO  TestCases.AddToCartTest - cart button clicked
 21:33:25.237 [main] INFO  TestCases.AddToCartTest - Validate with product name
-21:33:31.943 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-21:35:09.760 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-21:35:11.995 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+21:33:31.943 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+21:35:09.760 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+21:35:11.995 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 21:35:14.917 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 21:35:15.048 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
-21:35:15.659 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-21:35:33.204 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-21:35:35.376 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+21:35:15.659 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+21:35:33.204 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+21:35:35.376 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 21:35:38.193 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 21:35:38.320 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
-21:35:38.450 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+21:35:38.450 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 21:35:38.838 [main] INFO  TestCases.InvalidLoginTest - User login details locked_out_user and secret_sauce
 21:36:40.060 [main] INFO  TestCases.AddToCartTest - product Sauce Labs Backpack got selected 
-21:37:02.083 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-18:51:13.990 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-18:51:17.398 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+21:37:02.083 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+18:51:13.990 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+18:51:17.398 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 18:51:20.930 [main] INFO  TestCases.InvalidLoginTest - User login details locked_out_user and secret_sauce
-18:51:21.024 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+18:51:21.024 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 18:51:21.236 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 18:51:21.311 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
 18:51:22.454 [main] INFO  TestCases.AddToCartTest - product Sauce Labs Backpack got selected 
 18:51:23.496 [main] INFO  TestCases.AddToCartTest - add to cart button clicked
 18:51:23.546 [main] INFO  TestCases.AddToCartTest - cart button clicked
 18:51:23.567 [main] INFO  TestCases.AddToCartTest - Validate with product name
-18:52:04.119 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-19:01:35.287 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-19:01:37.890 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+18:52:04.119 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+19:01:35.287 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+19:01:37.890 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 19:01:56.119 [main] INFO  TestCases.InvalidLoginTest - User login details locked_out_user and secret_sauce
-19:01:56.250 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+19:01:56.250 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 19:01:56.482 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 19:01:56.600 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
 19:01:57.768 [main] INFO  TestCases.AddToCartTest - product Sauce Labs Backpack got selected 
 19:01:58.850 [main] INFO  TestCases.AddToCartTest - add to cart button clicked
 19:01:58.922 [main] INFO  TestCases.AddToCartTest - cart button clicked
 19:01:58.949 [main] INFO  TestCases.AddToCartTest - Validate with product name
-19:02:39.461 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-19:02:59.579 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-19:03:01.423 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+19:02:39.461 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+19:02:59.579 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+19:03:01.423 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 19:03:03.971 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 19:03:04.064 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
-19:03:04.547 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-19:17:59.697 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-19:18:01.610 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+19:03:04.547 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+19:17:59.697 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+19:18:01.610 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 19:18:04.761 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 19:18:04.872 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
-19:18:05.387 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-19:33:46.143 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-19:33:49.267 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+19:18:05.387 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+19:33:46.143 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+19:33:49.267 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 19:33:52.428 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 19:33:52.525 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
-19:33:53.422 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-11:59:26.296 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-11:59:31.211 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+19:33:53.422 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+11:59:26.296 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+11:59:31.211 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 11:59:35.120 [main] INFO  TestCases.InvalidLoginTest - User login details locked_out_user and secret_sauce
-11:59:35.251 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+11:59:35.251 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 11:59:35.607 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 11:59:35.717 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
 11:59:36.952 [main] INFO  TestCases.AddToCartTest - product Sauce Labs Backpack got selected 
 11:59:38.058 [main] INFO  TestCases.AddToCartTest - add to cart button clicked
 11:59:38.163 [main] INFO  TestCases.AddToCartTest - cart button clicked
 11:59:38.205 [main] INFO  TestCases.AddToCartTest - Validate with product name
-12:00:19.251 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-12:07:22.504 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-12:07:25.007 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+12:00:19.251 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+12:07:22.504 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+12:07:25.007 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 12:07:29.048 [main] INFO  TestCases.InvalidLoginTest - User login details locked_out_user and secret_sauce
-12:07:29.171 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+12:07:29.171 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 12:07:29.609 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 12:07:29.752 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
 12:07:31.002 [main] INFO  TestCases.AddToCartTest - product Sauce Labs Backpack got selected 
 12:07:32.146 [main] INFO  TestCases.AddToCartTest - add to cart button clicked
 12:07:32.279 [main] INFO  TestCases.AddToCartTest - cart button clicked
 12:07:32.330 [main] INFO  TestCases.AddToCartTest - Validate with product name
-12:08:09.999 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-12:10:22.634 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-12:10:25.026 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+12:08:09.999 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+12:10:22.634 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+12:10:25.026 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 12:10:28.483 [main] INFO  TestCases.InvalidLoginTest - User login details locked_out_user and secret_sauce
-12:10:28.610 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+12:10:28.610 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 12:10:28.971 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 12:10:29.094 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
 12:10:30.328 [main] INFO  TestCases.AddToCartTest - product Sauce Labs Backpack got selected 
 12:10:31.430 [main] INFO  TestCases.AddToCartTest - add to cart button clicked
 12:10:31.525 [main] INFO  TestCases.AddToCartTest - cart button clicked
 12:10:31.563 [main] INFO  TestCases.AddToCartTest - Validate with product name
-12:10:38.776 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-12:11:09.716 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-12:11:12.245 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+12:10:38.776 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+12:11:09.716 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+12:11:12.245 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 12:11:15.448 [main] INFO  TestCases.InvalidLoginTest - User login details locked_out_user and secret_sauce
-12:11:15.568 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+12:11:15.568 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 12:11:15.927 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 12:11:16.038 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
 12:11:17.300 [main] INFO  TestCases.AddToCartTest - product Sauce Labs Backpack got selected 
 12:11:18.413 [main] INFO  TestCases.AddToCartTest - add to cart button clicked
 12:11:18.523 [main] INFO  TestCases.AddToCartTest - cart button clicked
 12:11:18.560 [main] INFO  TestCases.AddToCartTest - Validate with product name
-12:11:52.192 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-12:14:14.445 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-12:14:16.796 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+12:11:52.192 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+12:14:14.445 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+12:14:16.796 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 12:14:20.697 [main] INFO  TestCases.InvalidLoginTest - User login details locked_out_user and secret_sauce
-12:14:20.806 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+12:14:20.806 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 12:14:21.155 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 12:14:21.278 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
 12:14:22.513 [main] INFO  TestCases.AddToCartTest - product Sauce Labs Backpack got selected 
 12:14:23.685 [main] INFO  TestCases.AddToCartTest - add to cart button clicked
 12:14:23.801 [main] INFO  TestCases.AddToCartTest - cart button clicked
 12:14:23.845 [main] INFO  TestCases.AddToCartTest - Validate with product name
-12:14:51.405 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-15:08:10.969 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-15:08:15.204 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+12:14:51.405 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+15:08:10.969 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+15:08:15.204 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 15:08:16.631 [main] INFO  TestCases.InvalidLoginTest - User login details locked_out_user and secret_sauce
-15:08:16.765 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+15:08:16.765 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 15:08:17.108 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 15:08:17.234 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
 15:08:18.489 [main] INFO  TestCases.AddToCartTest - product Sauce Labs Backpack got selected 
 15:08:19.599 [main] INFO  TestCases.AddToCartTest - add to cart button clicked
 15:08:19.678 [main] INFO  TestCases.AddToCartTest - cart button clicked
 15:08:19.708 [main] INFO  TestCases.AddToCartTest - Validate with product name
-15:08:31.436 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-15:12:34.262 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-15:12:36.427 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+15:08:31.436 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+15:12:34.262 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+15:12:36.427 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 15:12:37.138 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 15:12:37.254 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
-15:12:37.901 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-15:51:54.683 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-15:51:56.812 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+15:12:37.901 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+15:51:54.683 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+15:51:56.812 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 15:51:57.713 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 15:51:57.834 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
-15:51:58.368 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-15:54:24.381 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-15:54:26.437 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+15:51:58.368 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+15:54:24.381 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+15:54:26.437 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 15:54:27.242 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 15:54:27.350 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
-15:54:27.938 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-15:58:01.289 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-15:58:03.400 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+15:54:27.938 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+15:58:01.289 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+15:58:03.400 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 15:58:04.257 [main] INFO  TestCases.InvalidLoginTest - User login details locked_out_user and secret_sauce
-15:58:04.364 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+15:58:04.364 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 15:58:04.683 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 15:58:04.788 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
 15:58:05.983 [main] INFO  TestCases.AddToCartTest - product Sauce Labs Backpack got selected 
 15:58:07.066 [main] INFO  TestCases.AddToCartTest - add to cart button clicked
 15:58:07.153 [main] INFO  TestCases.AddToCartTest - cart button clicked
 15:58:07.183 [main] INFO  TestCases.AddToCartTest - Validate with product name
-15:58:47.902 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-11:10:33.520 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-11:10:36.148 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+15:58:47.902 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+11:10:33.520 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+11:10:36.148 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 11:10:58.129 [main] INFO  TestCases.InvalidLoginTest - User login details locked_out_user and secret_sauce
-11:10:58.213 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+11:10:58.213 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 11:10:58.391 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 11:10:58.489 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
 11:10:59.668 [main] INFO  TestCases.AddToCartTest - product Sauce Labs Backpack got selected 
 11:11:00.734 [main] INFO  TestCases.AddToCartTest - add to cart button clicked
 11:11:00.786 [main] INFO  TestCases.AddToCartTest - cart button clicked
 11:11:00.812 [main] INFO  TestCases.AddToCartTest - Validate with product name
-11:11:28.118 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-11:17:48.562 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-11:17:50.368 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
-11:19:14.639 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
-11:19:28.502 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-11:20:01.592 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-11:20:03.343 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
-11:20:45.537 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
-11:20:46.659 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-11:20:56.440 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-11:20:58.097 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
-11:21:19.775 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
-11:21:54.538 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-12:40:29.386 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-12:40:32.329 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+11:11:28.118 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+11:17:48.562 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+11:17:50.368 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
+11:19:14.639 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
+11:19:28.502 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+11:20:01.592 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+11:20:03.343 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
+11:20:45.537 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
+11:20:46.659 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+11:20:56.440 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+11:20:58.097 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
+11:21:19.775 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
+11:21:54.538 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+12:40:29.386 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+12:40:32.329 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 12:40:33.189 [main] INFO  TestCases.InvalidLoginTest - User login details locked_out_user and secret_sauce
-12:40:33.323 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+12:40:33.323 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 12:40:33.722 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 12:40:33.864 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
 12:40:35.051 [main] INFO  TestCases.AddToCartTest - product Sauce Labs Backpack got selected 
 12:40:36.104 [main] INFO  TestCases.AddToCartTest - add to cart button clicked
 12:40:36.147 [main] INFO  TestCases.AddToCartTest - cart button clicked
 12:40:36.166 [main] INFO  TestCases.AddToCartTest - Validate with product name
-12:41:16.871 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-10:14:55.630 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-10:14:59.220 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+12:41:16.871 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+10:14:55.630 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+10:14:59.220 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 10:14:59.950 [main] INFO  TestCases.InvalidLoginTest - User login details locked_out_user and secret_sauce
-10:15:00.079 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+10:15:00.079 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 10:15:00.276 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 10:15:00.361 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
 10:15:01.550 [main] INFO  TestCases.AddToCartTest - product Sauce Labs Backpack got selected 
 10:15:02.625 [main] INFO  TestCases.AddToCartTest - add to cart button clicked
 10:15:02.703 [main] INFO  TestCases.AddToCartTest - cart button clicked
 10:15:02.736 [main] INFO  TestCases.AddToCartTest - Validate with product name
-10:15:43.699 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-12:03:51.832 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-12:03:54.267 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+10:15:43.699 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+12:03:51.832 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+12:03:54.267 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 12:03:54.954 [main] INFO  TestCases.InvalidLoginTest - User login details locked_out_user and secret_sauce
-12:03:55.035 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+12:03:55.035 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 12:03:55.255 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 12:03:55.329 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
 12:03:56.471 [main] INFO  TestCases.AddToCartTest - product Sauce Labs Backpack got selected 
 12:03:57.532 [main] INFO  TestCases.AddToCartTest - add to cart button clicked
 12:03:57.586 [main] INFO  TestCases.AddToCartTest - cart button clicked
 12:03:57.607 [main] INFO  TestCases.AddToCartTest - Validate with product name
-12:04:38.177 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-15:29:27.141 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-15:29:30.038 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+12:04:38.177 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+15:29:27.141 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+15:29:30.038 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 15:29:30.696 [main] INFO  TestCases.InvalidLoginTest - User login details locked_out_user and secret_sauce
-15:29:30.787 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+15:29:30.787 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 15:29:31.007 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 15:29:31.085 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
 15:29:32.241 [main] INFO  TestCases.AddToCartTest - product Sauce Labs Backpack got selected 
 15:29:33.302 [main] INFO  TestCases.AddToCartTest - add to cart button clicked
 15:29:33.443 [main] INFO  TestCases.AddToCartTest - cart button clicked
 15:29:33.466 [main] INFO  TestCases.AddToCartTest - Validate with product name
-15:30:14.046 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-17:20:52.752 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-17:20:55.097 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+15:30:14.046 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+17:20:52.752 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+17:20:55.097 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 17:20:55.797 [main] INFO  TestCases.InvalidLoginTest - User login details locked_out_user and secret_sauce
-17:20:55.919 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+17:20:55.919 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 17:20:56.160 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 17:20:56.242 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
 17:20:57.381 [main] INFO  TestCases.AddToCartTest - product Sauce Labs Backpack got selected 
 17:20:58.451 [main] INFO  TestCases.AddToCartTest - add to cart button clicked
 17:20:58.516 [main] INFO  TestCases.AddToCartTest - cart button clicked
 17:20:58.542 [main] INFO  TestCases.AddToCartTest - Validate with product name
-17:21:38.935 [main] INFO  BaseConfig.BaseConfig - Closing Browser
-17:54:37.011 [main] INFO  BaseConfig.BaseConfig - Chrome driver got initialized
-17:54:47.571 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+17:21:38.935 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+17:54:37.011 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+17:54:47.571 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 17:54:51.297 [main] INFO  TestCases.InvalidLoginTest - User login details locked_out_user and secret_sauce
-17:54:51.367 [main] INFO  BaseConfig.BaseConfig - Base URL: https://www.saucedemo.com/
+17:54:51.367 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
 17:54:51.609 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
 17:54:51.702 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
 17:54:52.846 [main] INFO  TestCases.AddToCartTest - product Sauce Labs Backpack got selected 
 17:54:53.888 [main] INFO  TestCases.AddToCartTest - add to cart button clicked
 17:54:53.935 [main] INFO  TestCases.AddToCartTest - cart button clicked
 17:54:53.959 [main] INFO  TestCases.AddToCartTest - Validate with product name
-17:55:34.579 [main] INFO  BaseConfig.BaseConfig - Closing Browser
+17:55:34.579 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+16:50:34.193 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+16:50:36.899 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
+16:50:37.855 [main] INFO  TestCases.InvalidLoginTest - User login details locked_out_user and secret_sauce
+16:50:37.946 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
+16:50:38.183 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
+16:50:38.269 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
+16:50:39.423 [main] INFO  TestCases.AddToCartTest - product Sauce Labs Backpack got selected 
+16:50:40.472 [main] INFO  TestCases.AddToCartTest - add to cart button clicked
+16:50:40.522 [main] INFO  TestCases.AddToCartTest - cart button clicked
+16:50:40.541 [main] INFO  TestCases.AddToCartTest - Validate with product name
+16:51:21.114 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+17:02:36.385 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Chrome driver got initialized
+17:02:38.400 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
+17:02:39.318 [main] INFO  TestCases.InvalidLoginTest - User login details locked_out_user and secret_sauce
+17:02:39.418 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Base URL: https://www.saucedemo.com/
+17:02:39.674 [main] INFO  TestCases.LoginTest - Entered Login details :standard_user and secret_sauce
+17:02:39.765 [main] INFO  TestCases.LoginTest - Current URL :https://www.saucedemo.com/inventory.html
+17:02:40.906 [main] INFO  TestCases.AddToCartTest - product Sauce Labs Backpack got selected 
+17:02:41.952 [main] INFO  TestCases.AddToCartTest - add to cart button clicked
+17:02:41.998 [main] INFO  TestCases.AddToCartTest - cart button clicked
+17:02:42.023 [main] INFO  TestCases.AddToCartTest - Validate with product name
+17:03:22.651 [main] INFO  ConfigurationHelper.DriverFactory.BaseConfig - Closing Browser
+10:31:19.553 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+10:31:19.558 [main] ERROR ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "ConfigurationHelper.DriverFactory.BaseBrowserConfiguration.getDriver()" is null
+10:57:41.394 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+10:57:41.400 [main] ERROR ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "ConfigurationHelper.DriverFactory.BaseBrowserConfiguration.getDriver()" is null
+18:17:38.926 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+18:17:38.930 [main] ERROR ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "ConfigurationHelper.DriverFactory.BaseBrowserConfiguration.getDriver()" is null
+18:19:02.935 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+18:19:02.938 [main] ERROR ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "ConfigurationHelper.DriverFactory.BaseBrowserConfiguration.getDriver()" is null
+18:20:53.760 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Base Browser Configuration
+18:20:53.776 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+18:20:53.777 [main] ERROR ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "ConfigurationHelper.DriverFactory.BaseBrowserConfiguration.getDriver()" is null
+18:26:58.052 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Base Browser Configuration
+18:26:58.065 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+18:26:58.066 [main] ERROR ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "ConfigurationHelper.DriverFactory.BaseBrowserConfiguration.getDriver()" is null
+17:08:54.010 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Base Browser Configuration
+17:08:54.023 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
+17:08:54.025 [main] ERROR ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "ConfigurationHelper.DriverFactory.BaseBrowserConfiguration.getDriver()" is null
+20:37:57.613 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - Base Browser Configuration
+20:37:57.623 [main] INFO  ConfigurationHelper.DriverFactory.BaseBrowserConfiguration - ConfigurationHelper.DriverFactory.BaseBrowserConfigurationtrigger client base URL
